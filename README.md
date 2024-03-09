@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Gabriel!</h1> <h3 align="center">A passionate Software Engineer ready to be the next Tony Stark</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabe020304&label=Profile%20views&color=0e75b6&style=flat" alt="gabe020304" /> </p>  
+<h1 align="center">Hi, I'm Gabriel!</h1> <h3 align="center">A passionate Software Engineer ready to be the next Tony Stark</h3>
+<br clear="both">
 
 <h2>Current Projects</h2> 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;"> <div style="width: 48%; background-color: #f1f1f1; border-radius: 5px; padding: 20px; margin-bottom: 20px;"> 
@@ -31,3 +32,5 @@
 <h2>GitHub Stats</h2> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabe020304&show_icons=true&locale=en" alt="gabe020304" /></p>
 
 <h2>Connect with Me</h2> <p align="left"> <a href="https://linkedin.com/in/gabriel-curran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Curran" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/21635883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow User ID" height="30" width="40" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabe020304&label=Profile%20views&color=0e75b6&style=flat" alt="gabe020304" /> </p>  
