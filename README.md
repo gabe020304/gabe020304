@@ -7,11 +7,11 @@
 
 - 🔭 I'm currently working on a **Stocks Predicator Engine**
 
-- 🌱 I'm currently learning **[Spring, Reactor, GraphQL]**
+- 🌱 I'm currently learning **Spring, Reactor, GraphQL**
 
-- 👯 I'm looking to collaborate on **[Backend Java or Rust Projects]**
+- 👯 I'm looking to collaborate on **Backend Java or Rust Projects**
 
-- ⚡ Fun fact **[Octopuses have three hearts!]**
+- ⚡ Fun fact **Octopuses have three hearts!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
