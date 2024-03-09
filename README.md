@@ -25,10 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabe020304&show_icons=true&locale=en" alt="gabe020304" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabe020304&" alt="[your-github-username]" /></p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[your-github-username])  
-
-![GitHub metrics](https://metrics.lecoq.io/[your-github-username])  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username])  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabe020304&" alt="gabe020304" /></p>
