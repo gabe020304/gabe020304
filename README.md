@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Profession] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Gabriel Curran</h1>
+<h3 align="center">A passionate Software Engineer ready to be the next Tony Stark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-github-username]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabe020304&label=Profile%20views&color=0e75b6&style=flat" alt="gabe020304" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[your-github-username]" alt="[your-github-username]" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabe020304" alt="gabe020304" /></a> </p>
 
 - 🔭 I'm currently working on a **Stocks Predicator Engine**
 
