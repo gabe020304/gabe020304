@@ -7,14 +7,17 @@
   <h3>Alfred Life</h3> 
   <p>Micro Service Dedicated to Assisting a Natural Language System (Alfred)</p> 
   <a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S." target="_blank" style="display: inline-block; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">View Project</a> </div> <div style="width: 48%; background-color: #f1f1f1; border-radius: 5px; padding: 20px; margin-bottom: 20px;">
+  <br clear="both">
     
   <h3>Alfred CyberSecurity</h3> 
   <p>Micro Service Dedicated to Cyber Security Related Functions and Protections for (Alfred)</p> <a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S." target="_blank" style="display: inline-block; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">View Project</a> 
   </div> 
+  <br clear="both">
   
   <div style="width: 48%; background-color: #f1f1f1; border-radius: 5px; padding: 20px; margin-bottom: 20px;">   
   <h3>Alfred Networking</h3> 
   <p>System Developed for Alfred for Networking and Communication Functions</p> <a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S." target="_blank" style="display: inline-block; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">View Project</a> </div> 
+  <br clear="both">
   
   <div style="width: 48%; background-color: #f1f1f1; border-radius: 5px; padding: 20px; margin-bottom: 20px;">  
   <h3>Alfred Engine</h3> 
