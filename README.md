@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Curran</h1> <h3 align="center">A passionate Software Engineer ready to be the next Tony Stark</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabe020304&label=Profile%20views&color=0e75b6&style=flat" alt="gabe020304" /> </p>  
 
-h2>Current Projects</h2> 
+<h2>Current Projects</h2> 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;"> <div style="width: 48%; background-color: #f1f1f1; border-radius: 5px; padding: 20px; margin-bottom: 20px;"> 
   
   <h3>Alfred Life</h3> 
@@ -19,6 +19,7 @@ h2>Current Projects</h2>
   <h3>Alfred Engine</h3> 
   <p>Code Engine Designed to Generate and Maintain Programs for Alfred's Use</p> <a href="https://en.wikipedia.org/wiki/J.A.R.V.I.S." target="_blank" style="display: inline-block; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">View Project</a> </div> 
   </div>
+  <br clear="both"> 
 
 <h2>Languages and Tools</h2> 
 
