@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel!</h1> <h3 align="center">Let me tell you a little bit about me!</h3>
 <br clear="both">
 
-<h2>Current Projects</h2> 
+<h2>A Few Projects I'm Working On...</h2> 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;"> <div style="width: 48%; background-color: #f1f1f1; border-radius: 5px; padding: 20px; margin-bottom: 20px;"> 
   
   <h3>Alfred Life</h3> 
