@@ -32,5 +32,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/[your-github-username])  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username])  
-
-![Profile views](https://gpvc.arturio.dev/[your-github-username])
